@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69248026219",
+    "project_id": "bookhive-3353c",
+    "storage_bucket": "bookhive-3353c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69248026219:android:17781f04fce389d862d32e",
+        "android_client_info": {
+          "package_name": "social.bondoo.bookhive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWoLHr-ZHtFBCgOzuHacBieHrq_ZRInd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
